@@ -1,0 +1,6 @@
+age = input("How old are you?")
+age = int(age)
+if age > 21:
+    print ("You are old")
+else:
+    print ("you are young")
